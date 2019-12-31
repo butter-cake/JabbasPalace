@@ -9,7 +9,7 @@ How to use:
 * Update Alex Skills:
 1. Change Skill Invocation Name to "Jabba's Palace"
 2. Add two more Intents (Open and Close)
-
+3. Update Alexa skill sample (index.js) with index.js file on this repo
 
 You can also watch the demo on Youtube:
 https://www.youtube.com/watch?v=ZlzJCTWrR1w
