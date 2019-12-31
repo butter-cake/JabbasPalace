@@ -5,10 +5,10 @@ Inspired from the beginning scene of Star Wars Episode 6, a door will open and c
 
 How to use:
 * Follow the turotorial at: https://www.hackster.io/alexagadgets/lego-mindstorms-voice-challenge-mission-3-4ed812
-* Replace mission-03.py with this file
-* Update Alex Skills
-** Change Skill Invocation Name to "Jabba's Palace"
-** Add two more Intents (Open and Close)
+* Replace mission-03.py with mission.py file on this repo
+* Update Alex Skills:
+1. Change Skill Invocation Name to "Jabba's Palace"
+2. Add two more Intents (Open and Close)
 
 
 You can also watch the demo on Youtube:
